@@ -1,5 +1,4 @@
 package Actividades_poo;
-
 import java.util.Scanner;
 
 public class Actividad_2 {
