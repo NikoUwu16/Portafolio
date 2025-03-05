@@ -1,6 +1,6 @@
-## Funcionalidades de la aplicación:
+# Funcionalidades de la aplicación:
 
-# Restricciones técnicas:
+## Restricciones técnicas:
 
 1.Compatibilidad:
 - Funciona en dispositivos Android 8.0 (Oreo) en adelante.
