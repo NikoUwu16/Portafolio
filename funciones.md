@@ -1,4 +1,4 @@
-#Funcionalidades de la aplicación:
+##Funcionalidades de la aplicación:
 
 ## Restricciones técnicas:
 
