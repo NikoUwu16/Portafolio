@@ -1,4 +1,4 @@
-##Diseño de interfaz de usuario.
+## Diseño de interfaz de usuario.
 
 El diseño de la interfaz de usuario de Uanflix está inspirado en aplicaciones similares de transmisión de contenido, tomando referencias en su estructura y funcionalidad para ofrecer una experiencia intuitiva y atractiva para los usuarios."
 
