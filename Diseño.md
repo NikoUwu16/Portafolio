@@ -6,14 +6,13 @@ El diseño de la interfaz de usuario de Uanflix está inspirado en aplicaciones 
 
 1. Inico de la aplicacion.
   Aca se muestra como va a hacer el diseño de inico de la aplicacion.
-  ![Inicio](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/inicio.png)
+![Inicio](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/inicio.png)
 
 2. panel de la aplicacion.
   Este es el panel donde se muestran todas la peliculas y series que tiene la aplicacion.
-  ![panel](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/panel.png)
+![panel](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/panel.png)
 
 3.Busqueda de Peliculas.
   Este es el diseño de buscador de peliculas.
-
-  ![Busqueda](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/busqueda.png)
+![Busqueda](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/busqueda.png)
 
