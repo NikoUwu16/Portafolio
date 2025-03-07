@@ -14,5 +14,6 @@ Este es el panel donde se muestran todas la peliculas y series que tiene la apli
 
 3.Busqueda de Peliculas.
 Este es el diseño de buscador de peliculas.
+
 ![Busqueda](https://github.com/NikoUwu16/Portafolio/blob/main/imagenes/busqueda.png)
 
